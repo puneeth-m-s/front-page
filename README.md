@@ -1,0 +1,2 @@
+# front-page
+simple page
